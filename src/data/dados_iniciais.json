@@ -1,0 +1,109 @@
+{
+  "categorias": [
+    {
+      "titulo": "Inglês",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "red",
+      "link_extra": {
+        "text": "Aulas, dicas e cultura anglófona",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Inglês britânico x Inglês americano",
+          "url": "https://www.youtube.com/watch?v=JJOLUdsD1Ms"
+        },
+        {
+          "titulo": "Curso de inglês - Aula 01",
+          "url": "https://www.youtube.com/watch?v=MN7Vm_g_ySs"
+        },
+        {
+          "titulo": "Pronomes em inglês (Possessive Adjectives x Possessive Pronouns)",
+          "url": "https://www.youtube.com/watch?v=aTtlfDebEzc"
+        }
+      ]
+    },
+    {
+      "titulo": "Italiano",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Aulas, dicas e cultura italiana",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Piacere",
+          "url": "https://www.youtube.com/watch?v=K5X371Zu1bg"
+        }
+      ]
+    },
+    {
+      "titulo": "Francês",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Aulas, dicas e cultura francófona",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "15 verbos mais usados no Francês",
+          "url": "https://www.youtube.com/watch?v=H33UkJ1x4HE"
+        },
+        {
+          "titulo": "Page d'écriture",
+          "url": "https://www.youtube.com/watch?v=dTAV8GhXLI8"
+        }
+      ]
+    },
+    {
+      "titulo": "Espanhol",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Aulas, dicas e cultura da língua espanhola",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Afinal, é B ou V?",
+          "url": "https://www.youtube.com/watch?v=3yqS2mESFcg"
+        },
+        {
+          "titulo": "Entonación y el ritmo",
+          "url": "https://www.youtube.com/watch?v=iW9D8yx6nbw"
+        }
+      ]
+    },
+    {
+      "titulo": "Russo",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Aulas, dicas e cultura russa",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Dallas ISD Russian World - Lesson 1",
+          "url": "https://www.youtube.com/watch?v=52bRYf198XY&list=PLB306DSmXL1aXdzgIt2mJkm4YfNqsOv-r"
+        },
+        {
+          "titulo": "Alfabeto cirílico - Lesson 1",
+          "url": "https://www.youtube.com/watch?v=UiEvgu8lYOI"
+        }
+      ]
+    },
+    {
+      "titulo": "Outros",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Aulas e dicas variadas sobre outros idiomas",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Árabe",
+          "url": "https://www.youtube.com/watch?v=oKBJ2jXb1PI"
+        }
+      ]
+    }
+  ]
+}
